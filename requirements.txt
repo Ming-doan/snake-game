@@ -1,5 +1,4 @@
 matplotlib
 ipykernel
 pygame
--i https://download.pytorch.org/whl/cu124
 torch
